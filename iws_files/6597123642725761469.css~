@@ -1,6 +1,7 @@
 ﻿ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td {
 	margin:0;
-	padding:0
+	padding:0;
+	list-style: none;
 }
 
 h1,h2,h3,h4,h5,h6,em {
@@ -94,7 +95,7 @@ a:hover {
 	transition:all 0.1s ease
 }
 body {
-	background:#1b1b1b url(6597088458353676643.jpg) repeat fixed 0 0
+	background:#1b1b1b url(grid.png) repeat fixed 0 0
 }
 .g-hd0 {
 	background:url(6597088458353676644.png) repeat-x scroll 0 0;
