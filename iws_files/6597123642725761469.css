@@ -1,4 +1,4 @@
-﻿ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td {
+ body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,button,textarea,p,blockquote,th,td {
 	margin:0;
 	padding:0;
 	list-style: none;
@@ -40,7 +40,7 @@ textarea {
 body {
 	word-wrap:break-word;
 	font:14px/200% "Hiragino Sans GB","Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";
-	color:#868686;
+	color: #000000;
 }
 textarea,input,select {
 	font-family:"Hiragino Sans GB","Microsoft YaHei","微软雅黑",tahoma,arial,simsun,"宋体";
@@ -55,11 +55,11 @@ a {
 	star:expression(this.onFocus=this.blur())
 }
 a,a:hover {
-	color:#868686;
+	color: #000000;
 	text-decoration:none;
 }
 a:hover {
-	color:#9d9d9d;
+	color: #000000;
 	transition:all 0.3s ease
 }
 .f-cb {
@@ -95,13 +95,12 @@ a:hover {
 	transition:all 0.1s ease
 }
 body {
-	background:#1b1b1b url(6597088458353676643.jpg) repeat fixed 0 0
+	background:#1b1b1b url(grid.png) repeat fixed 0 0
 }
 .g-hd0 {
-	background:url(6597088458353676644.png) repeat-x scroll 0 0;
-}
-.m-nav,.m-pager-idx {
-	background:url(6597088458353676646.jpg) repeat-x scroll left bottom
+	background:#323232;
+	background: rgba(255, 255, 255, 0.6);
+	box-shadow:0 1px 2px 0 rgba(0,0,0,0.8)
 }
 
 body {
@@ -112,26 +111,22 @@ body {
 }
 .g-hd0,.g-hd1,.g-ft,.m-pager-idx {
 	padding:40px 0;
-	text-align:center
-}
+	text-align:center}
 .g-hd0 {
 	padding:0;
 	height:65px
 }
 .g-hd1,.m-pager-idx {
 	width:800px;
-	margin:0 auto
-}
+	margin:0 auto}
 .m-ttl,.m-about {
-	text-shadow:0 0 1px #000
-}
+	text-shadow: 0 0 1px rgba(186, 162, 162, 0.6);}
 .m-ttl {
 	font-size:28px;
 	line-height:63px
 }
 .m-about {
-	font-style:italic
-}
+	font-style:italic}
 .m-nav {
 	margin:20px 0 0;
 	padding-bottom:40px
@@ -148,13 +143,13 @@ body {
 	padding: 0px 10px;
 	border-radius: 15px;
 	white-space:nowrap;
+	transition: all 0.3s ease;
 }
 .m-nav a:hover {
 	padding: 0px 10px;
 	border-radius: 15px;
-	background-color: black;
-	transition:all 0.3s ease
-}
+	background-color: rgb(109, 167, 204);
+	transition: all 0.2s ease;}
 .m-sch {
 	position:relative
 }
@@ -188,7 +183,7 @@ body {
 }
 .m-post,.m-detail,.m-pager a,.m-cmthot {
 	background:#323232;
-	background:rgba(255,255,255,0.05);
+	background: rgba(255, 255, 255, 0.6);
 	box-shadow:0 1px 2px 0 rgba(0,0,0,0.8)
 }
 .m-post {
@@ -197,9 +192,8 @@ body {
 	overflow:hidden
 }
 .m-post:hover {
-	background:rgba(255,255,255,0.06);
-	box-shadow:0 4px 8px 0 rgba(0,0,0,0.9)
-}
+	background: rgba(255, 255, 255, 0.87);
+	box-shadow:0 4px 8px 0 rgba(0,0,0,0.9)}
 .m-post .pic img,.m-post .pic object,.m-post .pic embed {
 	width:100%
 }
