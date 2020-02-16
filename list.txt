@@ -1,0 +1,37 @@
+// https://nixsrv.com/llthw#Learn Linux The Hard Way#学习 Linux 的好去处 -- Hand by hand，手把手的教。
+https://www.pentesterlab.com/bootcamp#Pentesterlab -- 想学渗透测试的看这里!#Pentesterlab 提供了很多渗透测试的镜像文件以及说明指导，各种演练环境。
+https://hackertyper.net/#HackerTyper#Type like a hacker!! Cool!!
+https://www.solidot.org/#Solidot-奇客#上面总是一些奇奇怪怪的东西……
+https://pcottle.github.io/learnGitBranching/#Learn Git Branching#交互式在线学习Git
+http://www.imooc.com/#iMooc#非常棒的视频教学网站
+http://www.binarytides.com/#BinaryTides#Linux how-to guides, tutorials, news and tips and tricks.
+http://bluereader.org/#深蓝阅读#订阅你想订阅的
+https://community.emc.com/thread/197851#EMC中文支持论坛#论坛中的一篇好贴 -- 网络基本功
+http://songshuhui.net/#科学松鼠会！#上面好多知识！最喜欢分分钟学堂了！
+http://drrr.com/#DOLLARS 聊天室#嗯，没事可以来扯几句，还可以练练英语法语西班牙语什么的。
+https://billie66.github.io/TLCL/index.html#The Linux Command Line 的中文版#一个由好奇猫团队发起的翻译的书
+https://www.blackmoreops.com/#blackMORE Ops#Linux, InfoSec, Hacking - blackMORE Ops
+http://www.haoduoshipin.com/#好多视频网#有关Linux，HTML，CSS等视频教学，peter老师人很好！
+https://www.shell-tips.com/#Shell-Tips#Shell Tips! - Useful tech tidbits
+https://www.commandlinefu.com/commands/browse#CommandlineFu#可能名字是跟kongfu学的吧，上面有很多你没用过但是绝对好用的命令
+http://www.kalitutorials.net/#Kali Tutorials#kali教学好帮手
+https://www.hackthissite.org/#Hack This Site！#好人做的渗透站，“上了我吧！”，它说。
+https://panopticlick.eff.org/#检测浏览器指纹#看一下通过浏览器都可以读到你的什么秘密
+http://smashthestack.org/#黑客游戏#在线闯关类型的游戏，难度，我反正没过第一关……
+//https://panopticlick.eff.org/#ShellHacks#一些你不知道的shell
+http://www.win.tue.nl/~aeb/linux/hh/hh.html#Hackers Hut#超级赞的一个教学，比国内那些基地啊盗号啊什么的不知道高到那里去了～
+http://sectools.org/#SecTools#上面列了很多安全工具，里面的tips很赞
+https://wikileaks.org/#维基解密#好多政府公司泄露的机密文件，虽然你永远不可能知道真想，但我们至少离真想更近了一些。
+https://www.codecademy.com/#Code cade my#Learn to code interactively, for free.一个交互式学编程的网站
+http://wodemo.com/#我的磨#可以把这个站当做一个公有云，感谢站长！
+https://www.zoomeye.org/#ZoomEYE#这上面可以查到很多有漏洞的网站，服务器什么的，如果你正在学metasploit，那么我推荐你来这里找靶子。
+http://thepiratebay.cr/#海盗湾#各种下载，各种BT资源
+http://yyyyyyyyyyyyyyyyy.com/#十七个为什么#收集最有趣、最古怪、最蛋疼、最发人深思的问题
+http://www.linuxprocess.com/#理解Linux进程#用Go重写了所有示例程序，通过循序渐进的方法介绍Linux进程的工作原理和一切你所需要知道的概念。
+https://chuansongme.com/#传送门#微信公众账号导航及推荐
+https://dearphotograph.com/#那些照片#歪果仁很会玩呀，新旧照片合在一起了呢～
+http://wiki.ioin.in/#Sec-News#Sec-News是一个分享安全文章、共同成长的平台，独立博客“离别歌”分舵。
+https://tableconvert.com/#Table Convert#万能表格转换工具，表格工具中的瑞士军刀
+https://alf.nu/RegexGolf#Regex Golf#正则高尔夫，一个练习匹配正则表达式的好地方，超级赞！
+https://pixelprivacy.com/#Pixel Privacy#How To Protect Your Online Privacy? Check me out!
+https://12factor.net/#The twelve-factor app#Any software developer should know. Recommended.
